@@ -1,2 +1,2 @@
 # DroidCloud
-A android client for nextcloud services
+An android client for nextcloud services
